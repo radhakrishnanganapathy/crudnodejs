@@ -1,2 +1,0 @@
-# crudnodejs
-curd nodejs 
